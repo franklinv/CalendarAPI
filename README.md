@@ -1,2 +1,2 @@
 # CalendarAPI
-Solution for the Calendar API in .NET Core API
+Solution for the Calendar API using ASP.NET API and Entity Framework
